@@ -1,0 +1,276 @@
+Name,Age,Degree,CGPA,Domain,Time Spent,Revisit Frequency
+Kavya Patel,19,Other,9.09,Cloud Computing,1 hour,Daily
+Kabir Choudhary,22,IT,8.56,Cloud Computing,4 hours,Weekly
+Aditi Patel,19,CSE,6.79,Data Science,3 hours,Daily
+Siddharth Jain,21,IT,7.54,Data Science,5 hours,Daily
+Rahul Chopra,18,IT,5.46,Web Development,1 hour,Daily
+Saanvi Mishra,21,CSE,9.84,Data Science,5 hours,Daily
+Neha Bhatia,20,IOT,5.83,Web Development,5 hours,Daily
+Ishita Reddy,22,CSE,5.03,Cloud Computing,3 hours,Weekly
+Aditya Bose,19,IT,6.68,Data Science,3 hours,Daily
+Harsh Mishra,19,CSE,7.34,Cloud Computing,1 hour,Weekly
+Pooja Verma,22,IOT,8.79,Data Science,1 hour,Weekly
+Kabir Jain,18,Other,7.59,Web Development,2 hours,Daily
+Riya Nair,20,IT,5.56,Cloud Computing,5 hours,Weekly
+Harsh Jain,19,CSE,8.63,Data Science,5 hours,Daily
+Ishita Bose,22,IT,8,Data Science,4 hours,Daily
+Sakshi Chopra,19,Other,7.97,Cloud Computing,4 hours,Daily
+Sakshi Trivedi,21,CSE,6.73,Data Science,1 hour,Daily
+Ananya Reddy,18,IT,5.32,Web Development,4 hours,Daily
+Saanvi Jain,22,Other,5.37,Web Development,3 hours,Daily
+Krishna Kulkarni,22,CSE,8.9,Data Science,1 hour,Daily
+Rahul Mishra,19,IOT,6.82,Web Development,2 hours,Weekly
+Vivaan Reddy,19,IT,9.61,Cloud Computing,1 hour,Daily
+Aditi Nair,20,CSE,9.93,Web Development,3 hours,Daily
+Harsh Iyer,22,CSE,8.65,Web Development,3 hours,Weekly
+Vivaan Gupta,19,IOT,9.98,Web Development,4 hours,Weekly
+Aditya Nair,20,CSE,7.46,Data Science,3 hours,Weekly
+Vivaan Choudhary,19,CSE,5.77,Data Science,5 hours,Daily
+Neha Patel,22,IT,8.27,Web Development,5 hours,Weekly
+Kavya Bhatia,20,Other,9.32,Data Science,1 hour,Daily
+Aditya Patel,22,IOT,6.28,Web Development,5 hours,Daily
+Ishita Das,18,IOT,7.26,Web Development,3 hours,Daily
+Arjun Joshi,18,CSE,6.34,Cloud Computing,3 hours,Daily
+Arjun Sharma,21,CSE,7.95,Data Science,2 hours,Weekly
+Siddharth Kulkarni,22,Other,9.56,Web Development,2 hours,Daily
+Aarav Jain,19,IOT,9.93,Cloud Computing,4 hours,Daily
+Atharv Trivedi,22,IT,6.23,Web Development,2 hours,Daily
+Shaurya Chopra,21,IOT,6.4,Web Development,3 hours,Weekly
+Kabir Gupta,19,CSE,6.93,Data Science,3 hours,Daily
+Meera Choudhary,18,IOT,7.98,Cloud Computing,3 hours,Weekly
+Riya Bose,22,IT,8.14,Data Science,5 hours,Weekly
+Manisha Choudhary,21,IT,9.56,Cloud Computing,3 hours,Weekly
+Siddharth Verma,21,Other,9.22,Data Science,1 hour,Daily
+Manisha Bhatia,19,IT,5.05,Cloud Computing,4 hours,Weekly
+Vihaan Nair,19,IT,8.34,Web Development,1 hour,Weekly
+Vivaan Agarwal,19,Other,9.66,Cloud Computing,1 hour,Daily
+Aarav Mehta,18,IOT,5.03,Cloud Computing,2 hours,Daily
+Arjun Agarwal,21,IOT,7.71,Web Development,1 hour,Daily
+Saanvi Bhatia,19,CSE,9.31,Data Science,5 hours,Daily
+Vivaan Jain,20,IT,6.65,Web Development,1 hour,Weekly
+Manisha Kulkarni,22,IOT,6.65,Web Development,1 hour,Weekly
+Riya Trivedi,21,IT,7,Cloud Computing,1 hour,Daily
+Manisha Mehta,20,IT,5.07,Data Science,1 hour,Weekly
+Nikita Kulkarni,18,CSE,8.48,Web Development,3 hours,Daily
+Krishna Mishra,19,CSE,8.7,Data Science,5 hours,Daily
+Pooja Trivedi,20,IOT,9,Data Science,1 hour,Weekly
+Sakshi Agarwal,18,IOT,5.85,Cloud Computing,1 hour,Daily
+Harsh Trivedi,20,CSE,6.86,Data Science,5 hours,Weekly
+Rohan Mehta,20,CSE,8.52,Web Development,2 hours,Daily
+Krishna Sharma,21,Other,6.49,Data Science,1 hour,Weekly
+Aditi Iyer,20,Other,8.64,Web Development,5 hours,Daily
+Pooja Reddy,21,IT,7.86,Cloud Computing,2 hours,Daily
+Rahul Gupta,21,IOT,7.77,Web Development,1 hour,Daily
+Deepak Mishra,21,IT,9.14,Web Development,4 hours,Daily
+Ananya Chopra,20,Other,7.6,Data Science,3 hours,Daily
+Simran Chopra,18,CSE,6.21,Data Science,2 hours,Weekly
+Rahul Sharma,21,CSE,9.74,Data Science,5 hours,Daily
+Neha Joshi,19,IT,5.22,Data Science,5 hours,Daily
+Atharv Chopra,21,IOT,5.83,Cloud Computing,5 hours,Weekly
+Harsh Chopra,18,IOT,7.62,Web Development,5 hours,Weekly
+Sneha Jain,22,IT,7.61,Data Science,1 hour,Daily
+Aarav Bose,22,IT,6.56,Cloud Computing,1 hour,Daily
+Vihaan Gupta,21,CSE,8.07,Web Development,2 hours,Daily
+Nikita Das,19,IOT,9.37,Data Science,5 hours,Daily
+Aditya Bhatia,22,IOT,9.37,Cloud Computing,1 hour,Daily
+Neha Jain,20,CSE,9.01,Data Science,2 hours,Daily
+Vihaan Sharma,19,Other,5.34,Cloud Computing,5 hours,Daily
+Rohan Joshi,21,IT,6.27,Cloud Computing,3 hours,Daily
+Aarav Joshi,20,IT,9.88,Web Development,1 hour,Daily
+Vihaan Agarwal,18,CSE,9.35,Data Science,2 hours,Daily
+Vihaan Desai,18,CSE,8.61,Data Science,2 hours,Daily
+Pooja Kulkarni,20,IT,5.5,Web Development,5 hours,Daily
+Kabir Mehta,20,IOT,7.88,Web Development,4 hours,Daily
+Kavya Iyer,19,IT,8.05,Data Science,1 hour,Weekly
+Meera Das,18,IT,8.98,Data Science,5 hours,Weekly
+Meera Sharma,18,IOT,6.67,Data Science,1 hour,Daily
+Ishita Agarwal,18,CSE,9.93,Web Development,3 hours,Daily
+Tanisha Sharma,22,IT,7.44,Data Science,3 hours,Weekly
+Aarav Verma,18,IOT,7.65,Web Development,5 hours,Daily
+Kabir Das,21,IOT,5.24,Data Science,1 hour,Weekly
+Shaurya Kulkarni,22,CSE,8.95,Web Development,1 hour,Daily
+Ananya Desai,20,IOT,7.27,Data Science,2 hours,Daily
+Ishaan Kulkarni,19,Other,6.74,Cloud Computing,4 hours,Daily
+Aditi Gupta,21,CSE,7.46,Cloud Computing,2 hours,Weekly
+Aditi Trivedi,18,IT,7.78,Cloud Computing,1 hour,Weekly
+Riya Agarwal,20,IT,7.12,Web Development,5 hours,Weekly
+Krishna Patel,21,IOT,8.98,Data Science,4 hours,Daily
+Ishita Sharma,19,IOT,7.82,Web Development,4 hours,Daily
+Tanisha Bhatia,22,IT,5.04,Web Development,3 hours,Weekly
+Vihaan Choudhary,18,IT,9.13,Data Science,2 hours,Daily
+Tanisha Kulkarni,22,Other,7.21,Cloud Computing,4 hours,Daily
+Indhuja.I,19,IT,9.5,Web Development,1 - 5 hrs,Weekly
+Theo,21,Other,9.8,Web Development,1 - 5 hrs,Weekly
+M.Tharani priya,18,IT,8.9,Web Development,1 - 5 hrs,Daily
+R.Atchaya,18,IT,9.1,Web Development,1 - 5 hrs,Daily
+Meeran ,19,CSE,7.7,Web Development,6 - 10 hrs,Weekly
+Thamizhini S,20,IT,8.5,Data Science,10+ hrs,Daily
+Madhu Mitha L ,19,CSE,9.9,Web Development,1 - 5 hrs,Daily
+Akil,22,CSE,7.63,Data Science,1 - 5 hrs,Weekly
+R Madhumita ,21,IT,8.71,Web Development,1 - 5 hrs,Daily
+Muhammed Imraan,21,IT,7.7,Web Development,1 - 5 hrs,Weekly
+Martin JV,20,CSE,8.83,Data Science,1 - 5 hrs,Daily
+Subhashini V ,22,CSE,6.37,Data Science,1 - 5 hrs,Weekly
+Cherisha S,21,IT,8.67,Data Science,6 - 10 hrs,Daily
+Tuti,22,CSE,8,Web Development,1 - 5 hrs,Daily
+Prethiksha ,22,CSE,8,Web Development,1 - 5 hrs,Daily
+Lathisha A,21,CSE,6.8,Data Science,1 - 5 hrs,Weekly
+Mohamed Irshad M,21,CSE,9.1,Cloud Computing,6 - 10 hrs,Daily
+SIRAJUDEEN G,20,CSE,8,Web Development,1 - 5 hrs,Daily
+J MANASIR HUSSAIN ,21,CSE,8.5,Data Science,6 - 10 hrs,Weekly
+Mohamed Ashfag ,18,CSE,7.5,Data Science,1 - 5 hrs,Weekly
+Kabeer  S ,20,CSE,7.5,Web Development,1 - 5 hrs,Weekly
+Mohamed Mujahith ,22,CSE,8.03,Data Science,1 - 5 hrs,Weekly
+Mohamed Shafeeq ,21,CSE,7.7,Data Science,1 - 5 hrs,Weekly
+Ramya B,21,IT,8.71,Web Development,1 - 5 hrs,Daily
+Raja,22,CSE,9,Data Science,10+ hrs,Daily
+Mohamed Aashir T ,21,CSE,9.4,Cloud Computing,6 - 10 hrs,Weekly
+KARAN.R,21,CSE,6.7,Data Science,1 - 5 hrs,Weekly
+Saif Z,21,CSE,9.24,Web Development,1 - 5 hrs,Weekly
+P Mohammed Hammad,21,CSE,7.55,Data Science,1 - 5 hrs,Daily
+R Kaavyaa,21,CSE,8.58,Data Science,1 - 5 hrs,Daily
+Mohamed Samir M,21,CSE,9,Data Science,1 - 5 hrs,Daily
+Mervyn Daniel,21,IT,7.98,Data Science,1 - 5 hrs,Daily
+Mohammad Sadique,21,CSE,7.8,Web Development,6 - 10 hrs,Weekly
+Sandhiya N,20,IT,8.7,Web Development,1 - 5 hrs,Daily
+Mohamed Iqlas,21,CSE,9.2,Data Science,1 - 5 hrs,Weekly
+Muhammad fouzan masood,20,CSE,9.9,Web Development,10+ hrs,Weekly
+Syed Fawaz Ahmed,22,IT,7.7,Web Development,1 - 5 hrs,Weekly
+indhujasri,18,IT,9.6,Data Science,1 - 5 hrs,Weekly
+Mohamed Faraazman Bin Farooq ,21,CSE,10,Data Science,1 - 5 hrs,Daily
+Syed Fayaadh ,21,CSE,8.7,Web Development,1 - 5 hrs,Weekly
+Afshan zehera ,20,IT,7.5,Cloud Computing,1 - 5 hrs,Daily
+Dinesh Kumar R ,19,CSE,7.99,Web Development,1 - 5 hrs,Weekly
+MOHAMED RIYAZ J ,22,CSE,6.86,Web Development,1 - 5 hrs,Weekly
+Mohamed Farooq,22,CSE,8.1,Web Development,1 - 5 hrs,Weekly
+Syed wasif ,21,CSE,8.2,Web Development,1 - 5 hrs,Daily
+Mohammed Faaz,21,CSE,9,Web Development,1 - 5 hrs,Weekly
+Shifa Muskan,22,CSE,8.3,Web Development,1 - 5 hrs,Daily
+Muqeem,21,CSE,8.98,Data Science,1 - 5 hrs,Daily
+Vikas,21,CSE,7.36,Web Development,1 - 5 hrs,Weekly
+Jaideep Kumatiya ,20,IT,7,Web Development,1 - 5 hrs,Weekly
+Karthikeyan aj,21,CSE,7.88,Web Development,1 - 5 hrs,Daily
+A Naveen,21,IT,8.14,Web Development,1 - 5 hrs,Daily
+Barath N S,20,Other,7.9,Data Science,1 - 5 hrs,Daily
+Mohammad saad ,21,Other,7.64,Web Development,1 - 5 hrs,Weekly
+Sudhakar v,21,Other,7.8,Web Development,1 - 5 hrs,Daily
+Arsh,21,Other,8,Data Science,1 - 5 hrs,Weekly
+Imad Masood ,21,CSE,8.1,Data Science,1 - 5 hrs,Weekly
+Vansh Bansal,20,Other,7.95,Web Development,1 - 5 hrs,Weekly
+Fahima Yesmin,22,Other,6.54,Web Development,1 - 5 hrs,Weekly
+Aman khare ,22,Other,7.6,Web Development,1 - 5 hrs,Daily
+Tiasha Sarkar,19,Other,7.5,Data Science,1 - 5 hrs,Weekly
+Fawas,21,CSE,6.7,Cloud Computing,10+ hrs,Daily
+Mohamed Hasin F ,21,CSE,7.44,Web Development,1 - 5 hrs,Weekly
+Sharuk ,20,CSE,8.5,Cloud Computing,1 - 5 hrs,Weekly
+Ankit Sharma ,22,CSE,9.2,Web Development,1 - 5 hrs,Weekly
+M.Mohammed Misfar,19,Other,8.2,Web Development,10+ hrs,Weekly
+Sandhiya lakshmi,22,Other,7.4,Data Science,1 - 5 hrs,Daily
+Sadheesh R,21,Other,7.5,Cloud Computing,1 - 5 hrs,Weekly
+Mohamed jubair ,22,Other,7.4,Cloud Computing,1 - 5 hrs,Daily
+Hafeeza ,19,CSE,8.65,Data Science,1 - 5 hrs,Weekly
+Mohamed Hadhi ,19,CSE,7.5,Data Science,1 - 5 hrs,Weekly
+Bharadwaj ,21,IOT,7.5,Cloud Computing,1 - 5 hrs,Daily
+Stefina E,18,CSE,8.19,Data Science,1 - 5 hrs,Weekly
+Abdul,20,Other,8.1,Web Development,1 - 5 hrs,Daily
+Joshitha Narendran,20,CSE,9.32,Web Development,1 - 5 hrs,Daily
+Nikita Sharma,22,IOT,6.06,Data Science,3 hours,Weekly
+Atharv Choudhary,22,CSE,7.4,Web Development,1 hour,Daily
+Aditya Trivedi,20,CSE,7.55,Data Science,4 hours,Daily
+Neha Das,22,CSE,6.15,Data Science,5 hours,Daily
+Simran Verma,19,IT,6.41,Data Science,4 hours,Weekly
+Rohan Kulkarni,21,CSE,9.28,Cloud Computing,2 hours,Daily
+Aarav Chopra,18,Other,5.49,Cloud Computing,5 hours,Weekly
+Rahul Chopra,18,CSE,7.36,Cloud Computing,1 hour,Daily
+Neha Choudhary,20,Other,7.32,Cloud Computing,1 hour,Daily
+Harsh Gupta,20,CSE,8.34,Cloud Computing,4 hours,Daily
+Ishita Verma,22,IOT,8.76,Web Development,4 hours,Weekly
+Ishita Desai,18,CSE,5.18,Web Development,3 hours,Weekly
+Siddharth Das,18,IOT,5.68,Cloud Computing,5 hours,Weekly
+Neha Patel,20,IOT,7.12,Data Science,2 hours,Daily
+Vihaan Iyer,21,IT,5.15,Cloud Computing,1 hour,Weekly
+Sneha Nair,22,IOT,6.45,Web Development,4 hours,Weekly
+Aditya Bose,19,Other,7.18,Web Development,4 hours,Weekly
+Riya Desai,21,Other,8.24,Web Development,2 hours,Weekly
+Sneha Jain,20,IOT,8.06,Web Development,4 hours,Weekly
+Ananya Jain,19,Other,7.59,Cloud Computing,1 hour,Weekly
+Pooja Agarwal,18,IT,5.65,Web Development,2 hours,Weekly
+Vihaan Reddy,22,IOT,5.94,Web Development,3 hours,Daily
+Shaurya Desai,19,CSE,6.56,Data Science,1 hour,Weekly
+Manisha Patel,18,CSE,8.23,Web Development,4 hours,Daily
+Aditi Reddy,21,IT,5.88,Web Development,4 hours,Weekly
+Ishita Patel,22,IT,7.26,Data Science,1 hour,Daily
+Simran Das,18,IT,8.83,Data Science,5 hours,Weekly
+Saanvi Kulkarni,22,Other,7.96,Cloud Computing,1 hour,Weekly
+Aditya Desai,21,Other,5.15,Web Development,3 hours,Daily
+Aditya Gupta,19,Other,5.12,Data Science,4 hours,Weekly
+Vivaan Reddy,21,CSE,8.9,Cloud Computing,2 hours,Weekly
+Sneha Chopra,20,CSE,6.08,Cloud Computing,5 hours,Weekly
+Simran Mishra,18,CSE,7.51,Cloud Computing,1 hour,Weekly
+Kavya Verma,19,CSE,7.86,Web Development,2 hours,Daily
+Pooja Kulkarni,19,IOT,5.1,Web Development,5 hours,Weekly
+Simran Choudhary,18,IT,7.99,Web Development,3 hours,Daily
+Saanvi Mehta,20,Other,5.96,Web Development,2 hours,Weekly
+Neha Mishra,20,CSE,5.36,Data Science,1 hour,Weekly
+Vihaan Bhatia,18,Other,8.45,Cloud Computing,1 hour,Weekly
+Arjun Mehta,20,IOT,9.18,Data Science,2 hours,Weekly
+Rahul Jain,18,IT,7.73,Cloud Computing,4 hours,Daily
+Meera Reddy,21,CSE,7.55,Web Development,5 hours,Daily
+Rohan Jain,21,IOT,8.62,Web Development,3 hours,Daily
+Neha Sharma,21,Other,9.34,Data Science,5 hours,Daily
+Aarav Choudhary,20,Other,6.81,Data Science,4 hours,Daily
+Ananya Sharma,21,IOT,9.81,Web Development,1 hour,Daily
+Manisha Bhatia,21,Other,6.48,Web Development,5 hours,Daily
+Atharv Bhatia,21,IT,7.47,Cloud Computing,1 hour,Daily
+Aarav Trivedi,21,Other,9.31,Data Science,3 hours,Weekly
+Pooja Bhatia,18,Other,8.76,Data Science,3 hours,Weekly
+Sakshi Chopra,22,IOT,7.97,Cloud Computing,4 hours,Weekly
+Harsh Choudhary,21,Other,9.19,Web Development,2 hours,Weekly
+Tanisha Gupta,18,CSE,9.79,Web Development,3 hours,Weekly
+Vivaan Choudhary,21,IOT,8.91,Web Development,3 hours,Weekly
+Nikita Choudhary,20,IT,7.25,Web Development,5 hours,Daily
+Manisha Kulkarni,21,IOT,7.25,Data Science,1 hour,Daily
+Harsh Jain,21,CSE,9.96,Data Science,4 hours,Weekly
+Sneha Choudhary,20,CSE,5.07,Cloud Computing,3 hours,Weekly
+Harsh Desai,20,Other,5.49,Cloud Computing,1 hour,Daily
+Krishna Chopra,21,Other,5.33,Data Science,5 hours,Daily
+Saanvi Bhatia,19,IT,7.79,Data Science,1 hour,Daily
+Aarav Sharma,20,Other,5.48,Web Development,2 hours,Weekly
+Ananya Trivedi,18,Other,6.64,Data Science,2 hours,Weekly
+Meera Patel,21,CSE,9.91,Data Science,4 hours,Daily
+Rahul Kulkarni,19,Other,5.54,Web Development,2 hours,Weekly
+Deepak Trivedi,19,CSE,7.29,Web Development,2 hours,Daily
+Pooja Joshi,18,CSE,8.6,Web Development,2 hours,Weekly
+Nikita Bhatia,18,Other,9.77,Data Science,5 hours,Daily
+Nikita Desai,18,CSE,9.05,Data Science,1 hour,Daily
+Rahul Agarwal,20,IOT,7.26,Web Development,2 hours,Weekly
+Simran Patel,18,IOT,6.26,Cloud Computing,2 hours,Daily
+Sneha Desai,22,IOT,5.08,Cloud Computing,1 hour,Weekly
+Ishaan Gupta,21,IT,5.86,Cloud Computing,2 hours,Weekly
+Shaurya Verma,19,IT,7.2,Data Science,1 hour,Weekly
+Atharv Iyer,21,CSE,8.65,Web Development,5 hours,Daily
+Shaurya Joshi,20,IT,6.7,Web Development,2 hours,Weekly
+Deepak Gupta,19,IT,5.32,Data Science,1 hour,Daily
+Ishita Choudhary,21,IOT,5.24,Data Science,5 hours,Daily
+Rohan Nair,22,Other,6.01,Cloud Computing,5 hours,Daily
+Riya Joshi,22,IT,8.6,Cloud Computing,4 hours,Weekly
+Rohan Mishra,19,IOT,6.23,Data Science,5 hours,Weekly
+Krishna Reddy,18,IOT,5.92,Data Science,1 hour,Weekly
+Sakshi Agarwal,22,IOT,6.37,Cloud Computing,1 hour,Weekly
+Aditya Mishra,22,Other,7.22,Data Science,4 hours,Daily
+Kabir Trivedi,20,CSE,9.5,Data Science,2 hours,Daily
+Sakshi Patel,20,CSE,7.88,Web Development,2 hours,Daily
+Kabir Sharma,20,IOT,8.94,Web Development,1 hour,Daily
+Rahul Iyer,22,IT,5.1,Cloud Computing,1 hour,Weekly
+Vivaan Bhatia,21,IT,9.17,Cloud Computing,3 hours,Daily
+Deepak Jain,18,IOT,6.1,Web Development,4 hours,Weekly
+Arjun Iyer,22,CSE,6.46,Cloud Computing,4 hours,Weekly
+Tanisha Mehta,18,IOT,7.98,Web Development,5 hours,Daily
+Krishna Kulkarni,19,IT,6.98,Web Development,2 hours,Daily
+Arjun Verma,21,IOT,7.14,Web Development,5 hours,Weekly
+Manisha Iyer,21,IT,9.93,Data Science,2 hours,Daily
+Kabir Joshi,18,CSE,9.37,Web Development,1 hour,Daily
+Meera Trivedi,18,Other,9.05,Cloud Computing,1 hour,Daily
+Krishna Joshi,22,IOT,6.5,Cloud Computing,3 hours,Daily
+Ananya Mehta,20,Other,9.13,Cloud Computing,2 hours,Daily
+Krishna Bose,21,IOT,5.45,Cloud Computing,3 hours,Weekly
